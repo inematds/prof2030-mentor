@@ -137,7 +137,7 @@
       "tipo": "links",
       "titulo": "Continue por aqui",
       "links": [
-        {"t": "Profissional 2030: área do programa", "href": "https://eventos.inema.pro/prof2030/", "icone": "camadas"},
+        {"t": "Profissional 2030: área do programa", "href": "https://inematds.github.io/profissional-2030/", "icone": "camadas"},
         {"t": "Empresa-laboratório: Horizonte Distribuidora", "href": "https://inematds.github.io/prof2030-lab/", "icone": "pasta"},
         {"t": "Base comum do Profissional 2030", "href": "https://inematds.github.io/prof2030-base/", "icone": "lista"},
         {"t": "Gestão de IA: a ementa completa", "href": "https://inematds.github.io/curso-gestao-ia/", "icone": "grafico"},
